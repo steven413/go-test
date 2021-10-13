@@ -22,14 +22,11 @@ HOSTNAME=e6a0557d8a1b
 {Index:1 MTU:65536 Name:lo HardwareAddr: Flags:up|loopback}
   [127.0.0.1/32]
 ```
-Hints
 
-* it's up to you but you do not need to install anything
-
-  You can run code from your browser:
-      https://play.golang.org/
+  Run code from browser: https://play.golang.org/ screen shots:
+  
+  
   
 
-* if you use this hint, be sure to provide attribution!
 
 
