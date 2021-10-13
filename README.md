@@ -25,7 +25,8 @@ HOSTNAME=e6a0557d8a1b
 
   Run code from browser: https://play.golang.org/ screen shots:
   
-  
+  ![image](https://user-images.githubusercontent.com/57294651/137218955-1ba0180f-5752-4106-9d4b-cf989e138c58.png)
+
   
 
 
